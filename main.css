@@ -1,0 +1,24 @@
+div{
+    background: green;
+}
+
+div:hover{
+    background-color: red;
+    transition: 5ms
+}
+*{
+    color: yellow;
+    font-family: Helvetica
+}
+.listMovies{
+    height: 200px;
+    background: orange;
+}
+#container{
+    margin-left:  5px;
+    margin-right: 5px;
+}
+
+div.headerOptions ul li{
+    background-color: aqua!important;
+}
