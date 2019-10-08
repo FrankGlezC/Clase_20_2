@@ -1,0 +1,25 @@
+{
+  "name": "clase_20_2",
+  "version": "1.0.0",
+  "main": "register.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "json-server:start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankGlezC/Clase_20_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankGlezC/Clase_20_2/issues"
+  },
+  "homepage": "https://github.com/FrankGlezC/Clase_20_2#readme",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
